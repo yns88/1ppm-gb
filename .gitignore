@@ -1,0 +1,6 @@
+yunus/
+*.o
+.vscode/
+bgb/
+gbdk/
+bin/
