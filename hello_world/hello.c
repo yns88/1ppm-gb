@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include "alpha.c"
 #include "blank_screen_hello.c"
-#include "sprites.c"
-#include "title.c"
+#include "hello_title.c"
 
 void init();
 void checkInput();

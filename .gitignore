@@ -3,4 +3,9 @@ yunus/
 .vscode/
 bgb/
 gbdk/
-bin/
+bin/*.lst
+bin/*.o
+bin/*.map
+bin/*.sym
+gbmb18/
+gbtd22/
